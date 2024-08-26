@@ -20,6 +20,8 @@ Sou uma pessoa que adora aprender e me jogar em novas experiências. Sou comunic
 - Ferramentas: JIRA, Postman, Figma, Git, GitHub, Swagger, ApiDocs, Pacote Office
 - Metodologias Agile: SCRUM, Kanban
 - Habilidades adicionais: Comunicação, Trabalho em Equipe, Pensamento Lógico, Organização, Empatia, Resolução de Problemas, Facilidade em Aprender e Capacidade de Liderança.
+  
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 ---
 
 ### Contato
@@ -27,4 +29,3 @@ Sou uma pessoa que adora aprender e me jogar em novas experiências. Sou comunic
 - 📧 Email: [laissa.masrtiins@gmail.com]
 - 💼 LinkedIn: [www.linkedin.com/in/iaissamartiins]
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
