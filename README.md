@@ -15,7 +15,7 @@ Sou uma pessoa que adora aprender e me jogar em novas experiências. Sou comunic
 ---
 
 ### Skills
-- Testes: Manuais e Automatizados, Casos de Teste, Documentação e Rastreamento de Bugs 
+- Testes: Manuais, Casos de Teste, Documentação e Rastreamento de Bugs 
 - Experiências: back-and e front-and - GUI, UI, API, banco de dados SQL, app WEB. 
 - Ferramentas: JIRA, Postman, Figma, Git, GitHub, Swagger, ApiDocs, Pacote Office
 - Metodologias Agile: SCRUM, Kanban
