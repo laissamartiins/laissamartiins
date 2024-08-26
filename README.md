@@ -25,6 +25,6 @@ Sou uma pessoa que adora aprender e me jogar em novas experiências. Sou comunic
 
 ### Contato
 
-- 📧 Email: [laissa.masrtiins@gmail.com]
-- 💼 LinkedIn: [www.linkedin.com/in/iaissamartiins]
+- 📧 Email: laissa.martiins@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/iaissamartiins
 
